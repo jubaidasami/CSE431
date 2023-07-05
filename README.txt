@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1BU96EhMwZ44EUriTVlvdOrN1pLsntz6pgl8H3ijCyQg/edit?usp=sharing
 
 Paper title:
-Text Summarizer Using NLP (Natural Language Processing)https://www.irejournals.com/formatedpaper/1703633.pdf
+Text Summarizer Using NLP (Natural Language Processing)
 
 
 Link to the paper:
