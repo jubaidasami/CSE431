@@ -9,7 +9,7 @@ Text Summarizer Using NLP (Natural Language Processing)https://www.irejournals.c
 
 
 Link to the paper:
-https://www.irejournals.com/formatedpaper/1703633.pdf
+https://www.irejournals.com/paper-details/1703633
 
 Group Number:14
 
